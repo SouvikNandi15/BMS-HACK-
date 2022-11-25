@@ -1,0 +1,76 @@
+/* body {
+  background-image: url("public\css\bg.png");
+} */
+
+ html {
+  background-color: #F6F5D2;
+   /* background-image: -webkit-linear-gradient(65deg, #A683E3 50%, #E4E9FD 50%); */
+  min-height: 1000px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.heading {
+  background-color: #A683E3;
+  text-align: center;
+}
+
+.bold{
+  font-weight: bold;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 30px;
+}
+
+
+  img {
+  width: 350px;
+  height: 300px;
+  display : inline-block;
+  /* object-fit: scale-down; */
+}
+
+.icons{
+  width: 40px;
+  height: 40px;
+  display : inline-block;
+}
+
+.bg{
+    background-color: #F6F5D2;
+    width: 100%;
+    	margin-top: 2px
+}
+
+
+
+
+.row-margin1{
+  margin-top : 50px;
+  margin-left: 30px;
+}
+.row-margin2{
+  margin-top : 5px;
+  margin-left: 30px
+
+}
+
+
+ .header-padding {
+	padding-bottom: 60px;
+}
+
+.header {
+	position: absolute;
+	text-align: center;
+	top: 0;
+	width: 100%;
+	height: 70px;
+	background-color: #8BD7E8;
+}
+
+.header p {
+font-family: 'Montserrat', sans-serif;
+   font-weight: 600;
+	margin-top: 10px;
+	font-size: 30px;
+  color: #0F0E0E;
+}
